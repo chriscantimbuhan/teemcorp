@@ -42,7 +42,7 @@ npm install
 ```
 
 ## TO TEST
-Need 3 terminals for the following:
+Need 2 terminals for the following:
 - Backend:
 ```sh
 php artisan serve
