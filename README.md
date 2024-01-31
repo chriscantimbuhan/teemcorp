@@ -22,7 +22,7 @@ composer install
 ```
 Copy or move env.sample to .env.
 ```sh
-cp env.sample .env
+cp .env.example .env
 ```
 
 Configure .env depending on your machine. Especially the database credentials.
